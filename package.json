@@ -1,6 +1,8 @@
 {
   "name": "content-wind-template",
   "private": true,
+  "version": "1.0.0",
+  "packageManager": "node@16.14.0",  // specify your required version
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
